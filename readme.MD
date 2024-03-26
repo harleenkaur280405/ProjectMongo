@@ -1,14 +1,17 @@
 #Project Title
+
 Government Budget Management System (GBMS)
 
 
 
 #Executive Summary
+
 The Government Budget Management System (GBMS) is a database management system designed to facilitate the effective management of government budgets, expenditures, and financial reporting. GBMS provides a centralized platform for government entities to track budget allocations, record expenditures, generate financial reports, and ensure transparency and accountability in financial management. By streamlining budgeting processes and enhancing data accuracy and accessibility, GBMS aims to optimize resource allocation and decision-making within government agencies.
 
 
 
 #Specifications
+
 Database Design:
 Structured Query Language (SQL) database to store budget, department/agency, expenditure, and financial report data.
 Tables include Budgets, Departments, Expenditures, and Financial Reports with appropriate attributes and relationships.
@@ -36,6 +39,7 @@ Compatibility with standard SQL database management systems (e.g., MySQL, Postgr
 
 
 #Conclusion
+
 The Government Budget Management System (GBMS) provides a robust platform for managing government budgets, expenditures, and financial reporting effectively. By centralizing financial data and streamlining budgeting processes, GBMS enhances transparency, accountability, and decision-making within government agencies. With its user-friendly interface, comprehensive functionalities, and emphasis on data security and integrity, GBMS serves as a valuable tool for optimizing resource allocation and promoting fiscal responsibility in the public sector.
 
 
