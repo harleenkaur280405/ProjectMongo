@@ -12,27 +12,32 @@ The Government Budget Management System (GBMS) is a database management system d
 
 #Specifications
 
-Database Design:
+1. Database Design:
 Structured Query Language (SQL) database to store budget, department/agency, expenditure, and financial report data.
 Tables include Budgets, Departments, Expenditures, and Financial Reports with appropriate attributes and relationships.
 
-Functionality:
+2. Functionality:
+
 Budget Management: Allows the creation and management of budgets for different fiscal years.
+
 Department/Agency Management: Enables the addition and management of departments/agencies responsible for budget execution.
+
 Expenditure Tracking: Facilitates recording and tracking of individual expenditures made by departments/agencies.
+
 Financial Reporting: Generates periodic financial reports summarizing budget allocations, expenditures, and variances.
+
 Data Analysis: Supports querying and analysis functionalities to extract insights from budget and expenditure data.
 
-User Interface:
+3. User Interface:
 Command-line interface (CLI) for database administration tasks such as data entry, retrieval, and reporting.
 Basic input/output prompts for user interaction.
 Error handling mechanisms to ensure data integrity and user validation.
 
-Security:
+4. Security:
 Role-based access control to restrict unauthorized access to sensitive financial data.
 Encryption of sensitive data fields to ensure confidentiality and compliance with data protection regulations.
 
-Integration:
+5. Integration:
 Integration with existing government financial systems for data synchronization and interoperability.
 Compatibility with standard SQL database management systems (e.g., MySQL, PostgreSQL) for easy deployment and scalability.
 
